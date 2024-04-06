@@ -16,3 +16,4 @@ To day is the day newline
 You cannot say that to day is the day you must put your hope in God!
 The don't know that I have changed you.
 >>>>>>> 85084a8c2c3a47ee05400aff947eee99fb270014
+This is the change
