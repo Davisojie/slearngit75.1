@@ -20,3 +20,4 @@ This is the change
 >>>>>>> I fear no one but God 
 >>>>>>> I am making this change from github
 I am making this change from local
+the local file
