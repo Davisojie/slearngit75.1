@@ -8,3 +8,4 @@ I have made the 4th change finally.
 >>>>>>> fc749d7502394e3d789c0ee49f2edf5e32dcd61f
 To day is the day newline
 You cannot say that to day is the day you must put your hope in God!
+The don't know that I have changed you.
